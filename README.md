@@ -33,5 +33,5 @@ My contact info:
 This project is licensed under the [MIT-License] - see the LICENSE.md file for details
 
 ## Preview website
-![plants website](/preview_image.png)
+![plants website](/preview_website.png)
 
