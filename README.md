@@ -2,7 +2,7 @@
 Responsive Plants Website Design Using HTML CSS &amp; JavaScript 
 
 ## Getting Started 🚀
-Please you can have a look just here: https://mpgc.github.io/GoCo-Website-Task/
+Please you can have a look just here:  https://mpgc.github.io/Plantaxa-website/
 
 ## Description ✒️
 - Responsive Recruiter Company Page Using HTML CSS & JavaScript
