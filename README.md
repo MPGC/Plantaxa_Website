@@ -3,7 +3,7 @@ Responsive Plants Website Design Using HTML CSS &amp; JavaScript
 
 
 ## Getting Started 🚀
-Please you can have a look just here:  https://mpgc.github.io/Plantaxa-website/
+Please you can have a look just here:  https://mpgc.github.io/Plantaxa_Website/
 
 ## Description 📋
 - Responsive Plants Website Using HTML CSS & JavaScript
