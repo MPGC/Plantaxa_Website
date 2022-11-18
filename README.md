@@ -25,7 +25,6 @@ I have used several tools such as:
 ## Authors ✒️
 
 My contact info:
-
 [@mpgcuartero](https://www.linkedin.com/in/mpgcuartero/)
 
 ## License 📄
